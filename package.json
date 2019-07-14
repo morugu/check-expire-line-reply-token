@@ -1,0 +1,16 @@
+{
+  "name": "check-line-reply-token-expire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shoya Shiraki (https://github.com/morugu/)",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.0",
+    "express": "^4.17.1"
+  }
+}
